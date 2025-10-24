@@ -1,0 +1,112 @@
+2025-10-23 23:21:06.783: [WakaTime][ERROR] Failed to read file: C:\Users\Eileen\.wakatime\wakatime-internal.cfg. Error: Error: ENOENT: no such file or directory, open 'C:\Users\Eileen\.wakatime\wakatime-internal.cfg'
+2025-10-23 23:21:06.784: [WakaTime][ERROR] Failed to read file: C:\Users\Eileen\.wakatime\wakatime-internal.cfg. Error: Error: ENOENT: no such file or directory, open 'C:\Users\Eileen\.wakatime\wakatime-internal.cfg'
+2025-10-23 23:21:06.785: [WakaTime][ERROR] Failed to read file: C:\Users\Eileen\.wakatime\wakatime-internal.cfg. Error: Error: ENOENT: no such file or directory, open 'C:\Users\Eileen\.wakatime\wakatime-internal.cfg'
+2025-10-23 23:21:06.863: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-23 23:43:49.538: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-23 23:45:58.225: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RPG Maker MV --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-23 23:45:59.157: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity New Project --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-23 23:46:00.059: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-23 23:46:08.554: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RIGOR MORIS --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-23 23:51:51.769: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-23 23:52:55.015: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RIGOR MORIS --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-23 23:55:10.772: [WakaTime][DEBUG] App changed from WakaTime to Medal
+2025-10-23 23:55:10.772: [WakaTime][DEBUG] Not monitoring Medal: C:\Users\Eileen\AppData\Local\Medal\app-4.2988.0\Medal.exe
+2025-10-23 23:55:11.376: [WakaTime][DEBUG] App changed from Medal to Windows Explorer
+2025-10-23 23:55:11.376: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:55:12.486: [WakaTime][DEBUG] App changed from Windows Explorer to WakaTime
+2025-10-23 23:55:12.487: [WakaTime][DEBUG] Not monitoring WakaTime: C:\Users\Eileen\AppData\Local\Programs\desktop-wakatime\WakaTime.exe
+2025-10-23 23:55:14.601: [WakaTime][DEBUG] App changed from WakaTime to Settings
+2025-10-23 23:55:14.601: [WakaTime][DEBUG] Not monitoring Settings: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2025-10-23 23:55:14.801: [WakaTime][DEBUG] App changed from Settings to Google Chrome
+2025-10-23 23:55:14.801: [WakaTime][DEBUG] Not monitoring Google Chrome: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-10-23 23:55:15.809: [WakaTime][DEBUG] App changed from Google Chrome to Windows Explorer
+2025-10-23 23:55:15.809: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:55:16.514: [WakaTime][DEBUG] App changed from Windows Explorer to WakaTime
+2025-10-23 23:55:16.515: [WakaTime][DEBUG] Not monitoring WakaTime: C:\Users\Eileen\AppData\Local\Programs\desktop-wakatime\WakaTime.exe
+2025-10-23 23:55:17.218: [WakaTime][DEBUG] App changed from WakaTime to Medal
+2025-10-23 23:55:17.218: [WakaTime][DEBUG] Not monitoring Medal: C:\Users\Eileen\AppData\Local\Medal\app-4.2988.0\Medal.exe
+2025-10-23 23:55:17.319: [WakaTime][DEBUG] App changed from Medal to WakaTime
+2025-10-23 23:55:17.319: [WakaTime][DEBUG] Not monitoring WakaTime: C:\Users\Eileen\AppData\Local\Programs\desktop-wakatime\WakaTime.exe
+2025-10-23 23:55:20.341: [WakaTime][DEBUG] App changed from WakaTime to Google Chrome
+2025-10-23 23:55:20.342: [WakaTime][DEBUG] Not monitoring Google Chrome: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-10-23 23:55:31.021: [WakaTime][DEBUG] App changed from Google Chrome to Windows Explorer
+2025-10-23 23:55:31.021: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:55:50.098: [WakaTime][DEBUG] App changed from Windows Explorer to Google Chrome
+2025-10-23 23:55:50.099: [WakaTime][DEBUG] Not monitoring Google Chrome: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-10-23 23:56:01.797: [WakaTime][DEBUG] App changed from Google Chrome to Medal
+2025-10-23 23:56:01.798: [WakaTime][DEBUG] Not monitoring Medal: C:\Users\Eileen\AppData\Local\Medal\app-4.2988.0\Medal.exe
+2025-10-23 23:56:03.511: [WakaTime][DEBUG] App changed from Medal to Windows Explorer
+2025-10-23 23:56:03.512: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:56:11.170: [WakaTime][DEBUG] App changed from Windows Explorer to 
+2025-10-23 23:56:11.172: [WakaTime][DEBUG] Not monitoring : C:\Users\Eileen\AppData\Local\GitHubDesktop\app-3.5.3\GitHubDesktop.exe
+2025-10-23 23:56:12.077: [WakaTime][DEBUG] App changed from nil to Google Chrome
+2025-10-23 23:56:12.078: [WakaTime][DEBUG] Not monitoring Google Chrome: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-10-23 23:56:13.388: [WakaTime][DEBUG] App changed from Google Chrome to Windows Explorer
+2025-10-23 23:56:13.389: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:56:13.488: [WakaTime][DEBUG] App changed from Windows Explorer to 
+2025-10-23 23:56:13.489: [WakaTime][DEBUG] Not monitoring : C:\Users\Eileen\AppData\Local\GitHubDesktop\app-3.5.3\GitHubDesktop.exe
+2025-10-23 23:56:15.001: [WakaTime][DEBUG] App changed from nil to Google Chrome
+2025-10-23 23:56:15.002: [WakaTime][DEBUG] Not monitoring Google Chrome: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-10-23 23:56:22.367: [WakaTime][DEBUG] App changed from Google Chrome to Windows Explorer
+2025-10-23 23:56:22.368: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:56:24.589: [WakaTime][DEBUG] App changed from Windows Explorer to Google Chrome
+2025-10-23 23:56:24.590: [WakaTime][DEBUG] Not monitoring Google Chrome: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-10-23 23:56:24.793: [WakaTime][DEBUG] App changed from Google Chrome to 
+2025-10-23 23:56:24.794: [WakaTime][DEBUG] Not monitoring : C:\Users\Eileen\AppData\Local\GitHubDesktop\app-3.5.3\GitHubDesktop.exe
+2025-10-23 23:56:26.606: [WakaTime][DEBUG] App changed from nil to Windows Explorer
+2025-10-23 23:56:26.607: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:56:34.279: [WakaTime][DEBUG] App changed from Windows Explorer to 
+2025-10-23 23:56:34.280: [WakaTime][DEBUG] Not monitoring : C:\Windows\System32\ApplicationFrameHost.exe
+2025-10-23 23:56:34.681: [WakaTime][DEBUG] App changed from nil to Settings
+2025-10-23 23:56:34.681: [WakaTime][DEBUG] Not monitoring Settings: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+2025-10-23 23:56:35.287: [WakaTime][DEBUG] App changed from Settings to Windows Explorer
+2025-10-23 23:56:35.288: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:56:36.938: [WakaTime][DEBUG] Fetching code time: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+2025-10-23 23:56:37.002: [WakaTime][DEBUG] App changed from Windows Explorer to WakaTime
+2025-10-23 23:56:37.002: [WakaTime][DEBUG] Not monitoring WakaTime: C:\Users\Eileen\AppData\Local\Programs\desktop-wakatime\WakaTime.exe
+2025-10-23 23:56:37.472: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-23 23:56:44.150: [WakaTime][DEBUG] App changed from WakaTime to Windows Explorer
+2025-10-23 23:56:44.151: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:56:54.943: [WakaTime][DEBUG] App changed from Windows Explorer to 
+2025-10-23 23:56:54.944: [WakaTime][DEBUG] Not monitoring : C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2507.26.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+2025-10-23 23:57:15.113: [WakaTime][DEBUG] App changed from nil to Google Chrome
+2025-10-23 23:57:15.114: [WakaTime][DEBUG] Not monitoring Google Chrome: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-10-23 23:57:57.861: [WakaTime][DEBUG] App changed from Google Chrome to Windows Explorer
+2025-10-23 23:57:57.862: [WakaTime][DEBUG] Not monitoring Windows Explorer: C:\Windows\explorer.exe
+2025-10-23 23:57:58.668: [WakaTime][DEBUG] App changed from Windows Explorer to WakaTime
+2025-10-23 23:57:58.669: [WakaTime][DEBUG] Not monitoring WakaTime: C:\Users\Eileen\AppData\Local\Programs\desktop-wakatime\WakaTime.exe
+2025-10-23 23:58:45.293: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-24 00:00:10.340: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RIGOR MORIS --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-24 00:04:58.221: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RIGOR MORIS --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-24 00:04:58.872: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RPG Maker MV --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-24 00:04:59.083: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-24 00:05:06.971: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-24 00:05:17.133: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RPGMV --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-24 00:05:22.695: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RIGOR MORIS --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-24 00:10:05.006: [WakaTime][ERROR] Error fetching code time: Error: spawn C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe ENOENT
+2025-10-24 00:11:26.550: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-24 00:14:06.834: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RIGOR MORIS --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-24 00:14:07.294: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
+
+2025-10-24 00:20:45.430: [WakaTime][ERROR] Error sending heartbeat: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --entity RIGOR MORIS --entity-type app --category coding --plugin RPGMakerMV/unknown windows-wakatime/2.1.7
+
+2025-10-24 00:20:45.919: [WakaTime][ERROR] Error fetching code time: Error: Command failed: C:\Users\Eileen\.wakatime\wakatime-cli-windows-amd64.exe --today --today-hide-categories true --plugin windows-wakatime/2.1.7
